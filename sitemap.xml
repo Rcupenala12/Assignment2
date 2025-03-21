@@ -7,52 +7,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/now-serving-the-best-burger-and-fries-in-brantford/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/sample-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/about/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products/sample-product-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products/burger-and-fries/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products/peperoni-pizza/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products/fries/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products/burger/
         </loc>
     </url>
     <url>

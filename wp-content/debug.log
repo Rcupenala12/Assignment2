@@ -25,3 +25,9 @@
 [14-Mar-2025 01:25:48 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 74
 [14-Mar-2025 01:25:52 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/price-settings.php on line 28
 [14-Mar-2025 01:26:00 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/Lab6/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/price-settings.php on line 26
+[21-Mar-2025 01:03:49 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/Assignment2/.wordpress/wp-includes/user.php on line 3245
+[21-Mar-2025 01:04:42 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/Assignment2/.wordpress/wp-includes/user.php on line 3245
+[21-Mar-2025 01:05:01 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/Assignment2/.wordpress/wp-includes/user.php on line 3245
+[21-Mar-2025 01:08:51 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/Assignment2/.wordpress/wp-includes/user.php on line 3245
+[21-Mar-2025 01:13:18 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/Assignment2/.wordpress/wp-includes/user.php on line 3245
+[21-Mar-2025 01:18:28 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
