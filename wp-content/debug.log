@@ -73,3 +73,6 @@
 [21-Mar-2025 01:54:35 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/Assignment2/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 43
 [21-Mar-2025 01:54:38 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/Assignment2/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 37
 [21-Mar-2025 01:54:43 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/Assignment2/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 37
+[21-Mar-2025 01:59:47 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 32768 bytes) in /workspaces/Assignment2/.wordpress/wp-includes/blocks/blocks-json.php on line 1092
+[21-Mar-2025 01:59:47 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 94208 bytes) in /workspaces/Assignment2/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 507
+[21-Mar-2025 02:00:48 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/Assignment2/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/price-meta.php on line 113
